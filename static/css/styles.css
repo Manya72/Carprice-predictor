@@ -1,0 +1,19 @@
+body{
+   margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-dark{
+	background-color: #5e6176;
+}
+
+
+.mt-50{
+	margin-top: 60px;
+}
+#canvas{
+    border: 2px solid rgb(28, 3, 3);
+}
+button{
+    color: blueviolet;
+}
